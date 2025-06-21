@@ -30,3 +30,7 @@ ATIVIDADES _ DB LISTA DE BANCO DE DADOS
 28) Banco de Dados de uma emissora de TV.
 29) Banco de Dados de uma casa de apostas.
 30) Banco de Dados de uma lojas de shopping.
+
+1. MER (Modelo Conceitual): O que são as entidades importantes? Como elas se relacionam? Foco na visão do negócio. Sem preocupação com a implementação.
+2. DER (Modelo Lógico): Como os dados serão estruturados? Quais são os atributos? Quais são as chaves primárias e estrangeiras? Como resolver relacionamentos N:M? Foco na estrutura de dados relacional.
+3. Modelo Físico: Como o banco de dados será realmente implementado em um SGBD específico? Tipos de dados, restrições, índices. Foco na implementação técnica.
