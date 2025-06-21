@@ -1,5 +1,8 @@
 # 📊 Modelagem de Dados e SQL Server
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Abel2007u/ProjetosDB_BancoDeDados?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Abel2007u/ProjetosDB_BancoDeDados?style=for-the-badge)
+
 Este repositório é dedicado ao estudo e prática de modelagem de dados, abrangendo os modelos Conceitual (MER), Lógico (DER) e Físico, com foco na implementação utilizando o SQL Server. Aqui você encontrará diagramas, scripts SQL e materiais complementares para aprofundar seus conhecimentos em bancos de dados.
 
 ---
